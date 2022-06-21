@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @opisbin
+- 👋 Hi, I’m Meherab Hossain
 - 👀 I’m interested in learning and diving deep
 - 🌱 I’m currently learning Linux and Machine learning
 - 💞️ I’m looking to collaborate on multiverse
