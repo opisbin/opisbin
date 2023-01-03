@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Meherab Hossain
 - 👀 I’m interested in learning and diving deep
-- 🌱 I’m currently learning Linux and Machine learning
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on multiverse
 - 📫 How to reach me hmeherab243@gmail.com
 
