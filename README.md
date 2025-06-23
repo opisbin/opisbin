@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Meherab Hossain and I'm a Python Developoer, from Dhaka</h2>
+<h2 align="left">Hi 👋! My name is Meherab Hossain and I'm a Python Developoer, from Dhaka, Bangladesh</h2>
 
 ###
 
@@ -62,5 +62,5 @@
 ###
 <!---
 opisbin/opisbin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes..
 --->
