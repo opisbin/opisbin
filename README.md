@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Meherab Hossain and I'm a Python Developoer, from Dhaka, Bangladesh</h2>
+<h2 align="left">Hi 👋! My name is Meherab Hossain and I'm a Python Developoer, from Dhaka, Bangladesh.</h2>
 
 ###
 
