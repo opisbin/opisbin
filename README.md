@@ -10,8 +10,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=30" />
+  <img src="https://cdn.simpleicons.org/python?viewbox=auto&size=30" />
+  <img src="https://cdn.simpleicons.org/kotlin?viewbox=auto&size=30" />
+  <img src="https://cdn.simpleicons.org/dart?viewbox=auto&size=30" />
+  <img src="https://cdn.simpleicons.org/r?viewbox=auto&size=30" />
+  <img src="https://cdn.simpleicons.org/swift?viewbox=auto&size=30" />
+  <img src="https://cdn.simpleicons.org/julia?viewbox=auto&size=30" />
+  <img src="https://cdn.simpleicons.org/haskell?viewbox=auto&size=30" />
+  <img src="https://cdn.simpleicons.org/clojure?viewbox=auto&size=30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
