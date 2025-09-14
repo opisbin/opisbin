@@ -22,11 +22,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/swift?viewbox=auto&size=30" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/julia?viewbox=auto&size=30" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/haskell?viewbox=auto&size=30" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/clojure?viewbox=auto&size=30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -46,7 +42,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="30" alt="chrome logo"  />
 </div>
 
 ###
