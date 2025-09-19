@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Meherab Hossain and I'm a FullStack Developer from Dhaka, Bangladesh.</h2>
+<h2 align="left">👋 Hey there! I’m Meherab Hossain - a passionate Full-Stack Developer crafting digital experiences straight out of Dhaka, Bangladesh 🌍✨</h2>
 
 ###
 
