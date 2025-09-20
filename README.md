@@ -18,11 +18,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/dart?viewbox=auto&size=30" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/r?viewbox=auto&size=30" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/swift?viewbox=auto&size=30" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/haskell?viewbox=auto&size=30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -39,8 +35,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
   <img width="12" />
 </div>
 
