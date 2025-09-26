@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hey there! I’m Meherab Hossain - a passionate Full-Stack Developer crafting digital experiences straight out of Dhaka, Bangladesh 🌍❤️</h2>
+<h2 align="left">👋 Hey there! I’m Meherab Hossain - a passionate Full-Stack Developer crafting digital experiences straight out of Dhaka, Bangladesh 🌍🖥️</h2>
 
 ###
 
