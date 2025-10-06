@@ -14,11 +14,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python?viewbox=auto&size=30" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/kotlin?viewbox=auto&size=30" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/dart?viewbox=auto&size=30" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/swift?viewbox=auto&size=30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
